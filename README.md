@@ -21,13 +21,12 @@ A minecraft resoucepack
 전용 폰트
 언어 영어 --> 한국어 번역
 
-Credits:
+#Credits:
 Vanilla Tweaks: https://vanillatweaks.net/
 
 NewDefault: https://www.curseforge.com/minecraft/texture-packs/newdefaultplus
 
-AutoGamma: https://www.youtube.com/redirect?
-event=video_description&redir_token=QUFFLUhqbTBRdXFDM3BKV3RsOXIxOWVtRXpBS2pXQkpXZ3xBQ3Jtc0ttOFZIeFVGZk5GZzV1bllaaGJXSlhqYXlpbEhlYWVpZDVmNjN5UXo4QkhKYkNkd2lhWmN3dXdLamdqM1VPVlBNZHZDeEVVRk5GYmtjOWZzQUY0Mm9uLXdNMW8wTnl1UWd5b0xBaS1sVUxFMFZReVd5Zw&q=https%3A%2F%2Fgist.github.com%2Ffelixjones%2F191bc259993d14a8ac8336d817534bb0
+AutoGamma: https://gist.github.com/felixjones/191bc259993d14a8ac8336d817534bb0
 
 떫은맛+한국어+팩: https://blog.naver.com/dinoking0328/222420192308
 
