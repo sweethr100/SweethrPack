@@ -21,7 +21,8 @@ A minecraft resoucepack
 전용 폰트
 언어 영어 --> 한국어 번역
 
-#Credits:
+Credits:
+
 Vanilla Tweaks: https://vanillatweaks.net/
 
 NewDefault: https://www.curseforge.com/minecraft/texture-packs/newdefaultplus
