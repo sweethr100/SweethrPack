@@ -36,6 +36,10 @@ A minecraft resoucepack
 
 언어 영어 --> 한국어 번역
 
+용량 압축 적용
+
+HDR 리소스팩 적용
+
 
 Credits:
 
