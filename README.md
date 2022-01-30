@@ -7,6 +7,7 @@ A minecraft resoucepack
 
 옵티파인과 함께 사용하세요!
 
+그래픽을 기막히게로 설정하시는걸 추천합니다!
 
 양조기 가이드 (1.3.2)
 
@@ -39,6 +40,7 @@ A minecraft resoucepack
 용량 압축 적용
 
 HDR 리소스팩 적용
+
 
 
 Credits:
